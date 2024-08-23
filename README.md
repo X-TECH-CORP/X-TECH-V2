@@ -1,6 +1,6 @@
 # X-TECH-V2
 ***Whatsapp bot created by 🔞CYBERSAXTRON.INC🔰***
-***```X-TECH V1```***
+***```X-TECH V2```***
   </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/LeZF4x3ttDg7dcPBNP23Tn">
