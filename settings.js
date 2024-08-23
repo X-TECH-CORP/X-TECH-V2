@@ -10,35 +10,35 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2250500107362","24106600543"
-global.ownername = "🔞𝐗-𝐓𝐄𝐂𝐇🔰"
-global.ytname = "YT: X-TECH-CORP "
-global.socialm = "GitHub: X-TECH-CORP"
+global.ownernomer = "22879805159","22879805159"
+global.ownername = "KEN♾️"
+global.ytname = "YT: KEN♾️ "
+global.socialm = "GitHub: KEN"
 global.location = "United states, New York, Times Square"
 
-global.ownernumber = '2250500107362'  //creator number
-global.ownername = '🔞𝐗-𝐓𝐄𝐂𝐇🔰' //owner name
-global.botname = '🔞𝐗-𝐓𝐄𝐂𝐇🔰' //name of the bot
+global.ownernumber = '22879805159'  //creator number
+global.ownername = 'KEN♾️' //owner name
+global.botname = 'KEN♾️' //name of the bot
 
 //sticker details
-global.packname = '🔞𝐗-𝐓𝐄𝐂𝐇🔰'
-global.author = '🔞𝐗-𝐓𝐄𝐂𝐇🔰\n\nContact: +2250500107362'
+global.packname = 'KEN♾️'
+global.author = 'KEN♾️\n\nContact: +22879805159'
 
 //console view/theme
-global.themeemoji = '🔞'
-global.wm = "Xeon Bot Inc."
+global.themeemoji = '♾️'
+global.wm = "KEN♾️."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VadaaRZK5cDOTh6sMD41'
 
 //custom prefix
-global.prefa = ['','🚯','.','#','🔞']
+global.prefa = [♾️]
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
-global.autorecordtype = true //auto typing + recording
-global.autoread = true //auto read messages
+global.autoTyping = false //auto typing
+global.autorecordtype = false //auto typing + recording
+global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
