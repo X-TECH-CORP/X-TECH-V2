@@ -37,8 +37,8 @@ global.prefa = ['','🚯','.','#','🔞']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = true //auto typing
-global.autorecordtype = false //auto typing + recording
-global.autoread = false //auto read messages
+global.autorecordtype = true //auto typing + recording
+global.autoread = true //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
